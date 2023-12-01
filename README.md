@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5500ff&height=200&section=header&text=Baiaman&fontSize=60&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5500ff&height=200&section=header&text=Akzhol&fontSize=60&animation=twinkling&fontColor=ffffff)
 
 
 
