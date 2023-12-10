@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5500ff&height=200&section=header&text=Akzhol Asanov&fontSize=60&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5500ff&height=200&section=header&text=Akzhol_Asanov&fontSize=60&animation=twinkling&fontColor=ffffff)
 
 
 
