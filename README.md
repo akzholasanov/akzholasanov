@@ -14,7 +14,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-TumantaevBaiaman&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-AkzholAsanov&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -22,9 +22,9 @@
 ### :fire: My Skills :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" **alt="PostgreSql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/750/733/png-transparent-logo-stripe-brand-stripes-miscellaneous-purple-blue-thumbnail.png" title="Stripe" alt="Stripe" width="40" height="40"/>&nbsp;
   <img src="https://ih1.redbubble.net/image.2488655049.9084/st,small,507x507-pad,600x600,f8f8f8.jpg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>&nbsp;
