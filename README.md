@@ -3,13 +3,13 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/baiaman-tumantaev/">
+  <a href="https://www.linkedin.com/in/akzhol-asanov-241456280/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
-  <a href="https://wa.me/+996774480342">
+  <a href="https://wa.me/+79013426545">
     <img src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" height="30"/>
   </a>
-  <a href="https://t.me/Baiaman17">
+  <a href="https://t.me/theasanov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="30"/>
   </a>
 </div>
