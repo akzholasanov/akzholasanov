@@ -16,7 +16,7 @@ I am a frontend developer with one year of experience. During this time, I have 
 
 <div>
   <a href="https://github.com/theakzhol?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,sass,tailwind,git,firebase,npm" />
   </a>
 </p>
 </div>
