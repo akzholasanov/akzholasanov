@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm [Akzhol Asanov!](https://github.com/theakzhol/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/akzhol-asanov)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/akzhol-asanov-241456280)
 
 ### Glad to see you here!
 
