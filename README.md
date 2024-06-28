@@ -1,57 +1,41 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5500ff&height=200&section=header&text=Akzhol_Asanov&fontSize=60&animation=twinkling&fontColor=ffffff)
+## Hello there 👋, I'm [Akzhol Asanov!](https://github.com/theakzhol/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/akzhol-asanov)
 
+### Glad to see you here!
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/akzhol-asanov-241456280/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
-  </a>
-  <a href="https://wa.me/+79013426545">
-    <img src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" height="30"/>
-  </a>
-  <a href="https://t.me/theasanov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="30"/>
-  </a>
-</div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkzholAsanov&style=flat-square&color=blue" alt=""/>
-</div>
+I am a frontend developer with one year of experience. During this time, I have worked on numerous projects, gaining valuable knowledge and skills. I have learned from many experts and participated in the development of various web applications. I am always open to new challenges and strive to improve my skills. My goal is to create effective and innovative web solutions.
 
----
+### Talking about Personal Stuff:
 
-### My Skills :
+- 🛠 &nbsp; I’m currently working with JS, TS, NEXT.JS, etc.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: asanov.akzhol04@gmail.com.
+
+### Languages and Tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next" **alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
+  <a href="https://github.com/theakzhol?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,sass,tailwind" />
+  </a>
+</p>
 </div>
 
----
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkzholAsanov&theme=solarized_dark)
+### Projects and Dev Stuffs:
 
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theakzhol&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theakzhol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-<!--
-**AkzholAsanov/AkzholAsanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
 
-Here are some ideas to get you started:
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theakzhol&hide_border=true" />
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
