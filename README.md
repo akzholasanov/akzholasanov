@@ -37,7 +37,7 @@ I am a frontend developer with one year of experience. During this time, I have 
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akzholasanov&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=akzholasanov&theme=highcontrast&hide_border=true" />
 </details>
 
 #
