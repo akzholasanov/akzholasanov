@@ -23,6 +23,8 @@ I am a frontend developer with one year of experience. During this time, I have 
 
 ### Projects and Dev Stuffs:
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akzholasanov&theme=github_dark" />
+
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -36,7 +38,6 @@ I am a frontend developer with one year of experience. During this time, I have 
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akzholasanov&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akzholasanov&theme=github_dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzholasanov&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 </details>
 
