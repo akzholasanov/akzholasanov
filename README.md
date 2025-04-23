@@ -37,8 +37,7 @@ I am a frontend developer with one year of experience. During this time, I have 
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akzholasanov&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzholasanov&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+  <img height="180em" src="[https://github-readme-streak-stats.herokuapp.com/?user=akzholasanov](https://github-readme-streak-stats.herokuapp.com/demo/?user=akzholasanov&theme=highcontrast&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)" />
 </details>
 
 #
