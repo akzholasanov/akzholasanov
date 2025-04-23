@@ -15,7 +15,7 @@ I am a frontend developer with one year of experience. During this time, I have 
 ### Languages and Tools:
 
 <div>
-  <a href="https://github.com/theakzhol?tab=repositories">
+  <a href="https://github.com/akzholasanov?tab=repositories">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,sass,tailwind,git,firebase,npm" />
   </a>
 </p>
@@ -27,15 +27,17 @@ I am a frontend developer with one year of experience. During this time, I have 
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theakzhol&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theakzhol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akzholasanov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzholasanov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theakzhol&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akzholasanov&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akzholasanov&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzholasanov&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 </details>
 
 #
