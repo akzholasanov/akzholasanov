@@ -25,8 +25,8 @@ I am a frontend developer with one year of experience. During this time, I have 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akzholasanov&theme=github_dark" />
 
-<details>
+<div>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akzholasanov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzholasanov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+</div>
