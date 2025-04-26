@@ -23,10 +23,25 @@ I am a frontend developer with one year of experience. During this time, I have 
 
 ### Github Stats:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akzholasanov&theme=github_dark" />
+<div align="center">
 
+<!-- Страйк по центру -->
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=akzholasanov&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" height="220" />
+</a>
+
+<br><br>
+
+<!-- Статичные карточки в одну строку -->
 <div>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akzholasanov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzholasanov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akzholasanov&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzholasanov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark" height="180" />
 </div>
+
+<br><br>
+
+<!-- Общая графика снизу -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akzholasanov&theme=dark" height="300" />
+
+</div>
+
